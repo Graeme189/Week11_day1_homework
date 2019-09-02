@@ -10,7 +10,7 @@ public class WaterBottle {
     }
 
     public int empty() {
-        return volume = 0;
+        return volume - volume;
     }
 
     public int fill() {
